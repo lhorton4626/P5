@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/odm7bsb.css">
+<link rel="stylesheet" href="https://use.typekit.net/odm7bsb.css">
+<link rel="stylesheet" href="https://use.typekit.net/odm7bsb.css">
+	<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header>&nbsp;</header>
+  <nav>
+	  <ul>
+	  	<li><a href="../pages/about 3.html">About</a></li>
+		<li><a href="../pages/blog_1.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a woman, a daughter, a student, and a painter in my free time.</h3>
+	<h3>Join me as I paint my way through life.</h3>
+	<h3>by Lilly Horton</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
